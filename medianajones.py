@@ -3,7 +3,7 @@ import json
 
 
 # MODIFY THESE PARAMETERS
-ALL_FILES = ["swing-rain.mp4", "tree-rain.mp4"]
+ALL_FILES = []  # e.g. ["swing-video.mp4", "fireworks.mp4", "berlin-2088.mp4"]
 HIDE_NOT_IN_COMMONS = False
 
 
