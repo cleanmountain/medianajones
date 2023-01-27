@@ -1,7 +1,8 @@
 # Medianajones
-Compare Mediainfo details for videos; find similarities in an array of videos. What do video A, B, C and D have in common?
+Compare Mediainfo details for videos; find similarities in an array of videos. 
+Uses [pymediainfo](https://github.com/sbraz/pymediainfo) wrapper for MediaInfo library.
 
-Handy as a debugging tool in case you're wondering why some videos are acting strange in some other context. 
+Handy as a debugging tool in case you're wondering why some videos are acting strange in some other context (i.e. _"What do video A, B, C and D have in common?"_)
 
 ### prerequisites:
     1. sudo apt-get install mediainfo
