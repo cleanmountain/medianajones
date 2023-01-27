@@ -14,3 +14,4 @@ Compare Mediainfo details for videos; find similarities in an array of videos. H
 
 ### Example output
 ![Screenshot from 2023-01-24 21-36-34](https://user-images.githubusercontent.com/120788835/214404264-bd9d6ed0-a332-4d0b-810c-c8746dbcefd8.png)
+![image](https://user-images.githubusercontent.com/120788835/215189129-83e4b95c-212c-4b9f-a181-20b2899b8aff.png)
