@@ -3,7 +3,7 @@ import json
 
 
 # MODIFY THESE PARAMETERS
-ALL_FILES = ["swing-rain-new-audio.mp4", "tree-rain.mp4"]
+ALL_FILES = []  # e.g. ["swing-rain-new-audio.mp4", "tree-rain.mp4"]
 HIDE_NOT_IN_COMMONS = False
 
 
@@ -88,8 +88,8 @@ def count_occurences():
 
 
 def print_result(all_videos_data, longest_key_word):
-    # Criteria for being a common: len(entries) == 1 && len(videos) == len(ALL_FILES)
-    # ...since it means that all videos have added their value to the respective key, and that all the values were identical (entries is a set)
+    #  Criteria for being a common: len(entries) == 1 && len(videos) == len(ALL_FILES)
+    #  ...since it means that all videos have added their value to the respective key, and that all the values were identical (entries is a set)
     
     for track_type in all_videos_data:
 
